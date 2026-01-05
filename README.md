@@ -7,7 +7,7 @@ In this unforgiving arena, it's every animal for itself. Choose your warrior, ha
 
 <b>Survive the chaos. Dominate the wild. Become the Jungle King.</b>
 
-Will you be the last standing, or will the jungle claim you as its prey? The hunt begins now.
+Will you be the last standing, or will the jungle claim you as its prey? The hunt begins now.<br> The Game is under-development.
 <br>
 <br>
 Made with Unity3D Engine
